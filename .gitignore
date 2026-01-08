@@ -1,0 +1,10 @@
+# Large data & generated files
+archive/
+features/
+
+# ML artifacts
+*.csv
+*.npz
+*.pkl
+*.joblib
+*.ft.txt
